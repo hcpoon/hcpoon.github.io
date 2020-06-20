@@ -1,0 +1,32 @@
+.elementor-280 .elementor-element.elementor-element-1f440a2b:not(.elementor-motion-effects-element-type-background), .elementor-280 .elementor-element.elementor-element-1f440a2b > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: rgba(6,63,150,.07);}
+.elementor-280 .elementor-element.elementor-element-1f440a2b {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 80px;margin-bottom: 0px;padding: 0px 0px 0px 0px;}
+.elementor-280 .elementor-element.elementor-element-1f440a2b > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-280 .elementor-element.elementor-element-412aae22 > .elementor-element-populated {margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;}
+.elementor-280 .elementor-element.elementor-element-dd3d9f4 .elementor-image img {width: 1000px;filter: brightness(94%) contrast(120%) saturate(65%) blur(0px) hue-rotate(0deg);}
+.elementor-280 .elementor-element.elementor-element-dd3d9f4 > .elementor-widget-container {margin: -60px -30px 0px 0px;}
+.elementor-bc-flex-widget .elementor-280 .elementor-element.elementor-element-3a72969.elementor-column .elementor-column-wrap {align-items: center;}
+.elementor-280 .elementor-element.elementor-element-3a72969.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap {align-content: center;align-items: center;}
+.elementor-280 .elementor-element.elementor-element-3a72969 > .elementor-element-populated {margin: 30px 0px 30px 30px;padding: 0px 0px 0px 0px;}
+.elementor-280 .elementor-element.elementor-element-68c41141 .elementor-heading-title {color: #102d5e;font-family: "Playfair Display",Sans-serif;font-size: 40px;line-height: 50px;}
+.elementor-280 .elementor-element.elementor-element-48a25fd .elementor-heading-title {color: rgba(16,45,94,.6);font-family: "Playfair Display",Sans-serif;font-size: 24px;}
+.elementor-280 .elementor-element.elementor-element-48a25fd > .elementor-widget-container {margin: -10px 0px 30px 0px;}
+.elementor-280 .elementor-element.elementor-element-0acddaf {color: #7c7c7c;font-family: "Open Sans",Sans-serif;font-size: 16px;line-height: 26px;}
+.elementor-280 .elementor-element.elementor-element-4ef7b636 {text-align: left;}
+.elementor-280 .elementor-element.elementor-element-4ef7b636 .elementor-social-icon {background-color: #102d5e;font-size: 12px;padding: .7em;}
+.elementor-280 .elementor-element.elementor-element-4ef7b636 .elementor-social-icon i {color: #fff;}
+.elementor-280 .elementor-element.elementor-element-4ef7b636 .elementor-social-icon svg {fill: #fff;}
+.elementor-280 .elementor-element.elementor-element-4ef7b636 .elementor-social-icon:not(:last-child) {margin-right: 10px;}
+.elementor-280 .elementor-element.elementor-element-4ef7b636 .elementor-social-icon:hover {background-color: rgba(16,45,94,.6);}
+.elementor-280 .elementor-element.elementor-element-4ef7b636 > .elementor-widget-container {margin: 30px 0px 30px 0px;}
+.elementor-280 .elementor-element.elementor-element-31e8afaf .elementor-button {font-size: 14px;font-weight: 600;text-transform: uppercase;background-color: #102d5e;border-radius: 3px 3px 3px 3px;padding: 14px 34px 14px 34px;}
+.elementor-280 .elementor-element.elementor-element-31e8afaf .elementor-button:hover, .elementor-280 .elementor-element.elementor-element-31e8afaf .elementor-button:focus {background-color: #7c7c7c;}
+.elementor-280 .elementor-element.elementor-element-31e8afaf > .elementor-widget-container {margin: 30px 0px 0px 0px;}
+@media (max-width:1024px) and (min-width:768px) {.elementor-280 .elementor-element.elementor-element-412aae22 {width: 100%;}
+	.elementor-280 .elementor-element.elementor-element-3a72969 {width: 100%;}}
+@media (max-width:1024px) {.elementor-280 .elementor-element.elementor-element-1f440a2b {padding: 60px 30px 60px 30px;}
+	.elementor-280 .elementor-element.elementor-element-412aae22 > .elementor-element-populated {margin: 0px 0px 0px 0px;}
+	.elementor-280 .elementor-element.elementor-element-3a72969 > .elementor-element-populated {margin: 40px 0px 0px 0px;}}
+@media (max-width:767px) {.elementor-280 .elementor-element.elementor-element-1f440a2b {padding: 40px 10px 40px 10px;}
+	.elementor-280 .elementor-element.elementor-element-68c41141 .elementor-heading-title {font-size: 36px;line-height: 44px;}
+	.elementor-280 .elementor-element.elementor-element-68c41141 > .elementor-widget-container {margin: 0px 0px 0px 0px;}
+	.elementor-280 .elementor-element.elementor-element-48a25fd .elementor-heading-title {font-size: 22px;}}
