@@ -1,0 +1,12 @@
+.slidable-sidebar {border-right-color: #e2e2e2;}
+.site-branding + .main-navigation:before {border-right-color: #d4d4d4;}
+.mean-container a.meanmenu-reveal {border-left-color: rgba(0,0,0,.1);}
+.mean-container .mean-nav ul li a.mean-expand {border-right-color: rgba(0,0,0,.1) !important;}
+.post-navigation-with-title .nav-next {border-right-color: #e1e1e1;border-left-color: transparent;}
+.inspiry-blog-single-one #comments .comment-wrapper:after, .page #comments .comment-wrapper:after {border-right-color: transparent;border-left-color: #fff;}
+.inspiry-blog-single-one #comments .comment-wrapper:before, .page #comments .comment-wrapper:before {border-right-color: transparent;border-left-color: #d7d7d7;}
+.inspiry-blog-single-one #comments .children .comment-wrapper:after, .page #comments .children .comment-wrapper:after {border-right-color: transparent;border-left-color: #fafafa;}
+.inspiry-blog-single-two #comments .comment-wrapper:after {border-right-color: transparent;border-left-color: #f9f9f9;}
+.inspiry-blog-single-two #comments .comment-wrapper:before {border-right-color: transparent;border-left-color: #f9f9f9;}
+.widget_search input[type="text"], .widget_search input[type="email"], .widget_search input[type="search"] {border-color: #ddd;}
+.tabs-container .tabs-nav li:first-child {border-right-color: #757575;}
